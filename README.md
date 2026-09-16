@@ -32,6 +32,7 @@ Desenvolvedor com foco em **Backend**, apaixonado por tecnologia e solução de 
 
 [![Lattes](https://img.shields.io/badge/Curr%C3%ADculo_Lattes-104E8B?style=for-the-badge&logo=book&logoColor=white)](http://lattes.cnpq.br/8143541374897525)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrw993@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/le4ndror)
 
 ---
 
